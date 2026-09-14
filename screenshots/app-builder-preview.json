@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Silva e Macedo Advogados",
+      "hasCanvas": false,
+      "bodyTextLen": 2986,
+      "bodyTextHash": "27a8dd6a8b5d250f9b21677c33a1496aef426f2e3c87182f450ad6bef1738cf8",
+      "bodyTextPrefix": "SILVA E MACEDO Atuação O escritório Triagem Contato WhatsApp PRI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Silva e Macedo Advogados",
+      "hasCanvas": false,
+      "bodyTextLen": 2942,
+      "bodyTextHash": "7fe93c58f64eb9be580dd6d9570eee4d277918a5080316431077e0dcfd5b71a1",
+      "bodyTextPrefix": "PRIMAVERA DO LESTE · MT · DESDE 2015 Silva e Macedo Advogados As",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
